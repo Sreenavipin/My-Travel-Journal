@@ -1,0 +1,103 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.navbar--container {
+    align-items: center;
+    justify-content: center;
+    display:flex ;
+    background-color:indianred;
+    padding: 5px 5px;
+}
+
+.nav--image {
+    width: 18px;
+    height: 18px;
+
+}
+.nav--heading {
+    font-size: 20px;
+}
+
+  .Alltogether
+{
+    width: 471px;
+    height: 168px;
+    border-radius: 9px;
+    margin: 30px auto;
+    display: flex;
+    background-color: rgb(242, 236, 236);
+    box-shadow: 1px 1px 10px 0px rgba(128, 128, 128, 0.466)
+}
+
+.placeholder {
+
+    width: 18px;
+    height: 18px;
+    margin-right: 2px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.city--name {
+    margin-right: 2px;
+    margin-left: 2px;
+    margin-top: 10px;
+   
+}
+
+.map--link {
+    margin-right:5px;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+.Left--Side {
+    width: 140px;
+    height: 140px;
+    border-radius: 9px;
+}
+
+.location--part{
+    display: flex;
+    margin-bottom: 2px;
+}
+
+.headingPart{
+    margin-left: 5px;
+}
+
+.RightSide {
+    margin: 0px 1px;
+    margin-right: 5px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.city--name{
+    font-size: 13px;
+    color: rgb(66, 65, 65);
+    margin-left: 3px;
+    margin-bottom: 2px;
+  }
+
+  .headingPart h1{
+    font-size: 18px;
+    margin-bottom: 5px;
+    color: rgb(53, 52, 52);
+  
+  }
+
+  .ContentSection h4 {
+    font-size: 10px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    font-style: oblique;
+  }
+
+  .ContentSection p {
+    font-size: 10px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+  }
